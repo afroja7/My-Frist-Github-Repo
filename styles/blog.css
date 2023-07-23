@@ -1,0 +1,48 @@
+div{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 20px;
+}
+
+p{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    /* text-decoration: underline; */
+}
+
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background-color: antiquewhite;
+    margin: 10px;
+    /* box-shadow: 20px; */
+    /* text-align: center; */
+}
+
+.header{
+    /* height: 600px; */
+    /* background-color: blueviolet; */
+    margin: 10px;
+    padding: 5px;
+    background-image: url(pic/bird.jpg);
+    background-image: url(../bird2.jpg);
+    background-image: url(../bird3.jpg);
+    /* background-repeat: no-repeat; */
+/* background-repeat: repeat-x; */
+/* background-repeat: repeat-y; */
+/* background-size: cover; */
+background-size: 450px;
+}
+
+.lorem{
+    border: 2px solid sienna;
+    /* display: block; */
+    display: inline-block;
+}
+
+dl{
+    text-decoration: underline;
+    text-align: center;
+}
